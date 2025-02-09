@@ -28,8 +28,9 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
     <img alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-    <img alt="C#" width="40" height="40" src="https://icons8.com/icons/set/c-sharp">
-    <img alt=".NET Core" width="40" height="40" src="https://icons8.com/icons/set/net-core">
+    <img alt="C#" width="40" height="40" src="https://img.icons8.com/?size=100&id=45490&format=png&color=000000">
+    <img alt=".NET Core" width="40" height="40" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
+
 
 </p>
 
