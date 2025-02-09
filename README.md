@@ -28,7 +28,9 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
     <img alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
     <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
-    <img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+    <img alt="C#" width="40" height="40" src="https://icons8.com/icons/set/c-sharp">
+    <img alt=".NET Core" width="40" height="40" src="https://icons8.com/icons/set/net-core">
+
 </p>
 
 [![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=Mashon8945&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mashon8945)
