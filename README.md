@@ -21,16 +21,13 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 ## Languages and Tools
 
 <p align="center">
-    <img alt="Visual Studio Code" width="40" height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
     <img alt="HTML5" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
     <img alt="CSS3" width="40" height="40" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png">
     <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="Android" width="40" height="40" src="https://imgs.search.brave.com/H_-5ZEb-mg-4rYIjtUvE3ap4gtd0YJHPgW68VPGqSIc/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4uaWNvbi1pY29ucy5jb20vaWNvbnMyLzE0OTUvUE5HLzUxMi9hbmRyb2lkc3R1ZGlvXzEwMzA0My5wbmc">
     <img alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
-    <img alt="Ruby" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
-    <img alt="Rails" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg">
     <img alt="Bootstrap" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img alt="PostgreSQL" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+    <img alt="Python" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg">
     <img alt="Node.js" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
 </p>
 
