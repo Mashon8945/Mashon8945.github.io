@@ -16,8 +16,6 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 🌎 Check out my [portfolio](https://mashon8945.github.io/)
 
 
-<img align="center" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-
 ## Languages and Tools
 
 <p align="center">
@@ -34,7 +32,8 @@ I am also interested in **cloud computing**, **IT governance**, and **consulting
 
 </p>
 
-[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=Mashon8945&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mashon8945)
+[![Mashon8945's github stats](https://github-readme-stats.vercel.app/api?username=Mashon8945&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mashon8945)
+
 
 <div style="padding: 25px 0;">
 
