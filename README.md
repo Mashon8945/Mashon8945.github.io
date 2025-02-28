@@ -31,7 +31,7 @@ I’m a Software Engineer with extensive experience in **Django**, **Python**, *
     <img alt=".NET Core" width="40" height="40" src="https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000">
 </p>
 
-[![Skylar-Lorena's github stats](https://github-readme-stats.vercel.app/api?username=Mashon8945&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mashon8945)
+[![Mashon's github stats](https://github-readme-stats.vercel.app/api?username=Mashon8945&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Mashon8945)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashon8945&show_icons=true&theme=black&layout=compact)](https://github.com/mashon8945/github-readme-stats) 
 
